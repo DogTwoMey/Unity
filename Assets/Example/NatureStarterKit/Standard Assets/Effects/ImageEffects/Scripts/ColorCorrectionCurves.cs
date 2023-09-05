@@ -33,7 +33,6 @@ namespace UnityStandardAssets.ImageEffects
         private Texture2D zCurveTex;
 
         public float saturation = 1.0f;
-
         public bool  selectiveCc = false;
 
         public Color selectiveFromColor = Color.white;
